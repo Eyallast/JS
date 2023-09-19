@@ -15,10 +15,10 @@ console.log(people)
 const newArray = people.slice(2)
 console.log(newArray)
 // 6.
-people.indexOf("Mary")
+people.indexOf( "Mary")
 console.log(people)
 // 7.
-people.indexOf("Foo")
+people.indexOf( "Foo" )
 console.log(people)
 // 8.
 const people1 = ["Greg", "Mary", "Devon", "James"];
