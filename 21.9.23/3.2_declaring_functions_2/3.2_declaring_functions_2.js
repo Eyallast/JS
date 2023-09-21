@@ -31,12 +31,21 @@ const squareRoot1 = function(a){
   return result;
 
 }
-
-
+squareRoot11 (a) 
+{
+  let result = Math.sqrt(a, 2);
+  return result;
+}
 
 const randomNumbers = (a, b) => Math.random() * (a - b) + b;
 
 const randomNumbers1 = function(a,b)
+{
+  let result = Math.random()* (a - b) + b;
+  return result;
+}
+
+randomNumbers11 (a,b)
 {
   let result = Math.random()* (a - b) + b;
   return result;
